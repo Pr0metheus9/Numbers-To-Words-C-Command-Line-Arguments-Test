@@ -1,0 +1,2 @@
+all: 
+	gcc -Wall -pedantic Functions.c Maman23.c -o run
